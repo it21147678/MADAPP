@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400500240917",
+    "project_id": "appmad-b51d2",
+    "storage_bucket": "appmad-b51d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400500240917:android:9341c5a41a46e87811d41c",
+        "android_client_info": {
+          "package_name": "com.example.appmad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400500240917-cl24lekqpt4mk4s26c7le1086ssktfj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcsRCrBRT8VFd-zwDH8n4qsJPqQa-YvuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400500240917-cl24lekqpt4mk4s26c7le1086ssktfj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
